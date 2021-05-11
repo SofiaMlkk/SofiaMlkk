@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <title>Animates Banner Ad</title>
+</head>
+
+<body>
+    <div class="banner">
+        <img src="logo.png" alt="logo">
+        <h1 class="animate__animated animate__backInLeft">Noua aplicație full.<br>Așa cum ți-ai dorit-o.
+            <br>Games.<br>Fortuna
+            games!
+        </h1>
+        <img src="jucator_GIF.png" alt="amimation" class="jucator_GIF">
+        <a href="#" class="btn"> Vreau aplicația!</a>
+        <img src="legal.png" alt="legal-info" class="legal">
+    </div>
+</body>
+
+</html>
